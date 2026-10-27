@@ -1,0 +1,9 @@
+# IntelliJ local settings and compiled output
+.idea/
+out/
+target/
+
+# Per-computer application data
+/data/directoare.txt
+/data/fisiere_scoase.txt
+/data/raport*.txt
