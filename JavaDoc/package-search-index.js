@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"ro.ase.multimediamanager"},{"l":"ro.ase.multimediamanager.exceptions"},{"l":"ro.ase.multimediamanager.folders"},{"l":"ro.ase.multimediamanager.manager"},{"l":"ro.ase.multimediamanager.media"},{"l":"ro.ase.multimediamanager.menu"}];updateSearchResults();
